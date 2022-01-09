@@ -28,7 +28,7 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](punch.gif#center)]()
+[![](punch.gif#center)](https://youtu.be/FlmrZ26s-9A)
 
 </span>
 
