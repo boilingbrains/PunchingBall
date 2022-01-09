@@ -18,7 +18,8 @@ Voici le câblage du projet:
 ```
 📦Project
 │   📜README.md
-│   📜cablage_punchingball.JPG   
+│   📜cablage_punchingball.JPG 
+|   📜câblage.fzz 
 └───📂src
     │
     └───📜main.cpp
