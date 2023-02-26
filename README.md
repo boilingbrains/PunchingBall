@@ -12,13 +12,13 @@ composants suivant:
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage_punchingball.JPG#center)
+![](cablage_punchingball.jpg#center)
 
 ## Structure du projet
 ```
 📦Project
 │   📜README.md
-│   📜cablage_punchingball.JPG 
+│   📜cablage_punchingball.jpg 
 |   📜câblage.fzz 
 └───📂src
     │
